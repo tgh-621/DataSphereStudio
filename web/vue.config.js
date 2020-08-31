@@ -29,8 +29,8 @@ const getVersion = () => {
   return pkg.version;
 }
 
-const host = "0.0.0.0";
-const port = "9001";
+const host = "envidmp.dev.bigdatacd.com";
+const port = "9000";
 
 module.exports = {
   publicPath: './',
